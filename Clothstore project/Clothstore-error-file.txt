@@ -1,0 +1,10 @@
+
+Error occured time is:2023-08-06 02:59:41 and error is :Error:name should be in alphabets
+Error occured time is:2023-08-06 03:21:14 and error is :Error:password should be in more than 6 charecter to 8 charecter
+Error occured time is:2023-08-06 03:21:14 and error is :Error:password should be in more than 6 charecter to 8 charecter
+Error occured time is:2023-08-08 14:38:16 and error is :Error:Invalid phone number
+Error occured time is:2023-08-08 14:38:16 and error is :1146 (42S02): Table 'newdatabase.customer' doesn't exist
+Error occured time is:2023-08-08 14:39:29 and error is :1146 (42S02): Table 'newdatabase.customer' doesn't exist
+Error occured time is:2023-08-08 14:39:29 and error is :1146 (42S02): Table 'newdatabase.customer' doesn't exist
+Error occured time is:2023-08-15 23:48:43 and error is :Error:Invalid Email,Give correct format(ex:narenchan695@gamil.com)
+Error occured time is:2023-08-17 12:15:14 and error is :Error:password should be in more than 6 charecter to 8 charecter
